@@ -1,5 +1,5 @@
 ## Hi there, I'm Comfort 👋
-3rd year (University of Nairobi) Physics and Electronics student passionate about embedded systems, electronics design and computational physics.
+Pursuing a Bachelor's Degree in Microprocessor Technology(B.Tech), passionate about embedded systems, electronics design and computational physics.
 
 - 🔭 I'm currently working on an ESP32-based Flow Sensor Meter with a Display System and a Micromouse; an autonomous maze-solving robot.
 - 🌱 I'm currently learning hands-on physical prototyping in electronics, advanced PCB layout techniques using KiCad and Rust coding language.
